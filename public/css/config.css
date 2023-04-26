@@ -1,0 +1,67 @@
+.Nocontact {
+    background-color : #cac9c8;
+}
+.Call1 {
+    background-color: #ffed00;
+}
+
+.Call2 {
+    background-color: #ffde0e;
+}
+
+.Call3 {
+    background-color: #eeca13;
+}
+.Almost {
+    background-color: #ee7640;
+}
+.Customer {
+    background-color: #99c771;
+}
+.Notinterested {
+    background-color: #927256;
+}
+
+.Notinteresting {
+    background-color: #998a76;
+}
+.Nocontact, .Call1, .Call2, .Call3, .Almost, .Customer, .Notinterested, .Notinteresting {
+    color : white;
+}
+
+.Email1sent {
+    background-color: #5bcfc0;
+}
+
+.Email2sent {
+    background-color: #1b9e8d;
+}
+
+.Wa1sent {
+    background-color: #5ec25e;
+}
+
+.Wa2sent {
+    background-color: #588a54;
+    ;
+}
+
+.Undecided {
+    background-color: #ffd757;
+}
+
+.dt-buttons .btn {
+    margin-left: 0.333em;
+    border-radius: 0;
+    background-color: #f4f4f4;
+    color: #444;
+    border-color: #ddd;
+}
+
+.btn.buttons-collection.buttons-colvis.btn_add_contact {
+    margin-left: 0.333em;
+    border-radius: 0;
+    background-color: #34ff7c;
+    color: #444;
+    border-color: #ddd;
+}
